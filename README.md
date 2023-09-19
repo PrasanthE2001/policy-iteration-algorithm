@@ -61,9 +61,9 @@ Here's a step-by-step explanation of the algorithm:
 To summarize, policy iteration iteratively improves the policy by alternating between policy evaluation and policy improvement steps until convergence is reached. The algorithm guarantees to find the optimal policy for the given MDP **P** with a discount factor **gamma**.
 
 ## PROGRAM :
-Developed By : **Virgil Jovita A**
+Developed By : **PRASANTH E**
 </br>
-Register No. : **212221240062**
+Register No. : **212221233002**
 ### POLICY IMPROVEMENT FUNCTION:
 ```py
 def policy_improvement(V, P, gamma=0.9):
